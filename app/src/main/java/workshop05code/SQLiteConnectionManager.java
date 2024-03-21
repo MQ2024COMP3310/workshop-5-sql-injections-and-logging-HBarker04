@@ -136,6 +136,7 @@ public class SQLiteConnectionManager {
     
             pstmt.executeUpdate();
         } catch (SQLException e) {
+            
         }
     }
 
